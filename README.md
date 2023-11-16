@@ -1,5 +1,3 @@
-# gf-taugor-desafio
-
 # Gestão de Funcionários - Taugor (Front-End)
 
 Este projeto é uma prova técnica para um estágio na Taugor, com o objetivo de permitir que o usuário possa cadastrar um novo funcionário, atualizar os dados de funcionários existentes e excluir esses registros.
